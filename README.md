@@ -1,18 +1,16 @@
 # Natural ou Nao
 
-#📒 Descrição
+📒 Descrição
 Projeto criado para o desafio #LabDIONattyOrNot, onde exploramos o poder das IAs generativas para criar perfis hiper-realistas de fisiculturistas naturais — ou será que não? Com imagens e textos, o objetivo é desafiar a percepção sobre o que é possível de forma natural versus manipulação digital.
 
 🤖 Tecnologias Utilizadas 
 
 ChatGPT para criação dos textos e imagens (cartas de ia e personagens)
-
 GitHub para hospedagem do projeto
-
 
 🧐 Processo de Criação
 
-A partir de personagens fictícios, desenvolvi perfis completos com nomes, biografias de estilo Instagram e posts de cartas que já mandaram para IAS. Para as imagens, criei cartas e personagens otimizados para Leonardo AI, garantindo um estilo realista e natural, evitando referências que ativassem filtros da plataforma.
+A partir de personagens fictícios, criei perfis completos com nomes, biografias de estilo Instagram e posts de cartas que já mandaram para IAS. Para as imagens, criei cartas e personagens otimizados pelo chatgpt, garantindo um estilo realista e natural.
 
 O projeto mistura curiosidade, criatividade e reflexão sobre a comunicação e interação da inteligência aritificial em 2084.
 
