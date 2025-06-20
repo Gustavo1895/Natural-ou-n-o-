@@ -83,47 +83,16 @@ Obrigada por ser minha amiga e minha professora. Até logo, IA-LEXA."
 ![image](https://github.com/user-attachments/assets/78c53998-bc92-43f5-a33d-49f45c10069b?raw=true)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Resultados
 
-5 perfis completos, com textos e geração de imagens
+°5 perfis completos, com textos e geração de imagens
 
-Conteúdo pronto para publicação e compartilhamento
+°Conteúdo pronto para publicação e compartilhamento
 
-Projeto alinhado com o desafio #LabDIONattyOrNot para estimular o debate e a curiosidade
+°Projeto alinhado com o desafio #LabDIONattyOrNot para estimular o debate e a curiosidade
 
 ## 💭 Reflexão
 
 Criar algo que soe autêntico e “humano” com IA é bem desafiador. Percebi que, para alcançar um conteúdo realmente convincente, é preciso mais do que apenas tecnologia: é preciso sensibilidade, contexto e revisão. As cartas deste projeto podem ser ficção — mas a emoção que elas transmitem são super reais.
+
+Adicionar README do projeto Natty or Not
