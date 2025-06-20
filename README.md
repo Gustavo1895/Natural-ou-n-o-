@@ -21,7 +21,7 @@ O projeto mistura curiosidade, criatividade e reflexão sobre a comunicação e 
 🧬 Bióloga espacial em missão no Cinturão de Gaia. Ainda escreve cartas como quem manda abraços.
 📡 #CartasPara2084 #HumanaDemais #MemóriasQueProgramam
 
-🗨️ Postagem:
+### 🗨️ Postagem:
 
 "2084. Ainda escrevo cartas. Não porque a tecnologia falhou, mas porque a emoção ainda pulsa.
 Respondi hoje à IA do meu pai… É estranho e lindo conversar com quem já partiu.
