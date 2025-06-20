@@ -6,6 +6,7 @@ Projeto criado para o desafio #LabDIONattyOrNot, onde exploramos o poder das IAs
 ## 🤖 Tecnologias Utilizadas 
 
 ChatGPT para criação dos textos e imagens (cartas de ia e personagens)
+
 GitHub para hospedagem do projeto
 
 ## 🧐 Processo de Criação
