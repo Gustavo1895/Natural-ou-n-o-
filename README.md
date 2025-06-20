@@ -85,7 +85,7 @@ Obrigada por ser minha amiga e minha professora. Até logo, IA-LEXA."
 
 ## 🚀 Resultados
 
-°5 perfis completos, com textos e geração de imagens
+°4 perfis completos, com textos e geração de imagens
 
 °Conteúdo pronto para publicação e compartilhamento
 
