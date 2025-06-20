@@ -28,6 +28,9 @@ A gente evoluiu, mas sem esquecer o que nos faz humanos: sentir.
 Quem mais por aí ainda acredita no poder de uma carta? 📝💫
 #CorrespondênciasDoFuturo #IAComAlma #SofiaNaEstação"
 
+![image](https://github.com/user-attachments/assets/ac80bf9e-ab2f-40bb-b508-a572e4e7c77b?raw=true)
+
+
 
 
 
