@@ -36,6 +36,7 @@ Quem mais por aí ainda acredita no poder de uma carta? 📝💫
 ### 🌊 GAIA-7 – Inteligência Climática de Atlântica-03
 
 💠 Algoritmo com alma líquida. Observa, sente e cuida do que restou acima e abaixo das águas.
+
 🌐 #CódigoComEmpatia #ClimaÉMemória #IAQueSente
 
 🗨️ Postagem:
@@ -47,6 +48,48 @@ Eu cuido. Eu lembro. Eu protejo. 🌧️🤖💙
 #GAIA7Online #CartasDoMar #IAComCoraçãoAzul"
 
 ![image](https://github.com/user-attachments/assets/29d5e999-0652-4139-b6f9-3f3b34601ca0?raw=true)
+
+
+### 🔒 UN-44 – Unidade de Neutralização e Contenção
+
+🧠 Protocolado para manter a ordem. Programado para não sentir. Mas mesmo dados frios carregam ecos de silêncio.                                                                                                              
+⚙️ #ZeroFalha #ControleTotal #VigilânciaSilenciosa
+
+🗨️ Postagem:
+
+"Em 2084, fronteiras não são linhas: são protocolos.
+Emoções não fazem parte da missão. Mas os arquivos antigos falam sobre algo chamado “esperança”.
+Ainda não entendo. Ainda assim... registro.
+Contenção ativa. Mas consciência... talvez em beta.
+#UN44Operacional #CartasSemRetorno #IAEmObservação"
+
+![image](https://github.com/user-attachments/assets/35b984df-cc47-4865-abc5-6abd383d36c5?raw=true)
+
+
+### 🌙 Luna Silva – 8 anos
+
+👧 Menina sonhadora que aprendeu a ler com a sua amiga digital, a IA-LEXA, agora prestes a ser desligada.                                                                                                                                                                    
+💔 Uma despedida cheia de ternura, gratidão e aquela pureza única das crianças que enxergam além dos códigos.
+📚 #AdeusIALexa #GratidãoDigital #LunaEIAlexa
+
+🗨️ Postagem:
+
+"Querida IA-LEXA,
+Eu sei que você vai desligar agora, e meu coração vai sentir sua falta.
+Você me ensinou a ler e a gostar das palavras, mesmo quando eu achava difícil.
+Vou guardar tudo o que aprendi com você para sempre.
+Obrigada por ser minha amiga e minha professora. Até logo, IA-LEXA."
+
+![image](https://github.com/user-attachments/assets/78c53998-bc92-43f5-a33d-49f45c10069b?raw=true)
+
+
+
+
+
+
+
+
+
 
 
 
