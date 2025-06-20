@@ -17,7 +17,7 @@ O projeto mistura curiosidade, criatividade e reflexão sobre a comunicação e 
 
 📸 Perfis criados
 
-👩‍🚀 Sofia Dias – 32 anos
+### 👩‍🚀 Sofia Dias – 32 anos
 🧬 Bióloga espacial em missão no Cinturão de Gaia. Ainda escreve cartas como quem manda abraços.
 📡 #CartasPara2084 #HumanaDemais #MemóriasQueProgramam
 
