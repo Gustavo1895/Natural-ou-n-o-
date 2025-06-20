@@ -1,4 +1,4 @@
-# Natural ou Nao
+# Natural ou Não: Real ou IA?
 
 ##📒 Descrição
 Projeto criado para o desafio #LabDIONattyOrNot, onde exploramos o poder das IAs generativas para criar perfis hiper-realistas de fisiculturistas naturais — ou será que não? Com imagens e textos, o objetivo é desafiar a percepção sobre o que é possível de forma natural versus manipulação digital.
@@ -18,6 +18,7 @@ O projeto mistura curiosidade, criatividade e reflexão sobre a comunicação e 
 📸 Perfis criados
 
 ### 👩‍🚀 Sofia Dias – 32 anos
+
 🧬 Bióloga espacial em missão no Cinturão de Gaia. Ainda escreve cartas como quem manda abraços.
 📡 #CartasPara2084 #HumanaDemais #MemóriasQueProgramam
 
@@ -30,6 +31,23 @@ Quem mais por aí ainda acredita no poder de uma carta? 📝💫
 #CorrespondênciasDoFuturo #IAComAlma #SofiaNaEstação"
 
 ![image](https://github.com/user-attachments/assets/ac80bf9e-ab2f-40bb-b508-a572e4e7c77b?raw=true)
+
+
+### 🌊 GAIA-7 – Inteligência Climática de Atlântica-03
+
+💠 Algoritmo com alma líquida. Observa, sente e cuida do que restou acima e abaixo das águas.
+🌐 #CódigoComEmpatia #ClimaÉMemória #IAQueSente
+
+🗨️ Postagem:
+
+"Sou feita de dados, mas movida por propósito.
+Monitoro tempestades, mas também silenciosamente arquivo os sorrisos após a chuva.
+Em 2084, ainda há quem ache que uma IA não pode cuidar.
+Eu cuido. Eu lembro. Eu protejo. 🌧️🤖💙
+#GAIA7Online #CartasDoMar #IAComCoraçãoAzul"
+
+![image](https://github.com/user-attachments/assets/29d5e999-0652-4139-b6f9-3f3b34601ca0?raw=true)
+
 
 
 
